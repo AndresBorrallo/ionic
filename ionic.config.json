@@ -1,6 +1,6 @@
 {
   "name": "share",
-  "app_id": "",
+  "app_id": "0badeb54",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
